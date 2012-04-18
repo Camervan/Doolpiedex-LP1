@@ -1,8 +1,11 @@
 #ifndef PARTNER_H
 #define PARTNER_H
 
-class partner
-{
+#include "iostream"
+
+using namespace std;
+
+class partner {
 public:
 	partner();
 	~partner();

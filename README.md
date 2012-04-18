@@ -16,7 +16,7 @@ Os clientes do sistema podem ser:
 
 No processo de entrega, os funcionários da DOOLPIEDEX, transferem as encomendas entre Agências até que a encomenda chegue a uma Agência na região do destinatário, quando um entregador retira a encomenda na Agência e o entrega no endereço do destinatário.
 
-Considere que o entregador, na retirada de uma encomenda ou na entrega de uma encomenda, consegue acessar o sistema para acusar a operação. 
+Considere que o entregador, na retirada de uma encomenda ou na entrega de uma encomenda, consegue acessar o sistema para acusar a operação.
 
 Na transferência de encomendas entre agências, cada Agência deve registrar a saída do produto, enquanto que a Agência que o recebe deve registrar seu recebimento. 
 

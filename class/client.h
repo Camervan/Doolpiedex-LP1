@@ -1,9 +1,15 @@
 #ifndef CLIENT_H
 #define CLIENT_H
 
-class client
-{
+#include "iostream"
+
+using namespace std;
+
+class client {
 public:
+	string name, address;
+	long id;
+
 	client();
 	~client();
 
